@@ -1,0 +1,16 @@
+ul {
+    display: flex;
+    flex-direction: row;  
+    list-style: none;
+}
+li {
+
+    padding: 10px 10px 10px;
+}
+.links-nav {
+    text-decoration: none;
+    color: black;
+}
+.links-nav:hover {
+    text-decoration: underline;
+}
